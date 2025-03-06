@@ -114,8 +114,7 @@ int main() {
 
         if (choice != 6) {
             cout << "Нажмите любую клавишу для продолжения...";
-            cin.ignore(); 
-            cin.get();
+
         }
     } while (choice != 6);
 
